@@ -36,7 +36,7 @@
                 <p>Tulip - $8</p>
             </div>
             <div class="flower-item">
-                <img src="orchid.jpg" alt="Orchid">
+                <img src="orchid.jpg" alt="rose3">
                 <p>Orchid - $15</p>
             </div>
         </div>
