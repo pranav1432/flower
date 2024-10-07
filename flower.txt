@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Flower Heaven</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#shop">Shop</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="banner">
+        <h2>Fresh Flowers Delivered to Your Door</h2>
+        <p>Explore our wide selection of beautiful flowers.</p>
+    </section>
+
+    <section id="shop">
+        <h2>Our Flower Collection</h2>
+        <div class="flower-gallery">
+            <div class="flower-item">
+                <img src="rose.jpg" alt="Red Rose">
+                <p>Red Rose - $10</p>
+            </div>
+            <div class="flower-item">
+                <img src="tulip.jpg" alt="Tulip">
+                <p>Tulip - $8</p>
+            </div>
+            <div class="flower-item">
+                <img src="orchid.jpg" alt="Orchid">
+                <p>Orchid - $15</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Flower Heaven</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
